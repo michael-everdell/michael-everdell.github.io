@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+My CV
+======
+[[pdf]](files/Michael Everdell CV CF.pdf)
+
 Education
 ======
 * B.A. in Anthropology, Oberlin College, 2013
