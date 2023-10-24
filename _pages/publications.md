@@ -11,14 +11,14 @@ redirect_from:
 * 2023 Everdell, Michael. Arguments and adjuncts in O'dam: language-specific realization of
 a cross-linguistic distinction. Doctoral dissertation. The University of Texas at Austin. [[pdf]](files/Dissertation_Everdell.pdf)
 
-
 ## Manuscripts 
-* Under review	Bowler, Margit, Emily Hanink, J. Hopperdietzel, Andrew Koontz-Garboden, Colin Bannard, Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & Stephen Nichols. Verbhood and state/change-of-state lability across languages. <em> Glossa: a journal of general linguistics </em>. 
+* Under review	Bowler, Margit, Emily Hanink, J. Hopperdietzel, Andrew Koontz-Garboden, Colin Bannard, Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & Stephen Nichols. Verbhood and state/change-of-state lability across languages. <em> Glossa: a journal of general linguistics </em>.
+* In progress Everdell, Michael. Flavors of -ga: A possession class suffix in O'dam.
 
 ## Journal articles
 * 2022	Everdell, Michael & Gabriela García Salido. Los aplicativos en tepehuano del sureste (o’dam) y tepehuano del suroeste (audam). <em> Cuadernos de Lingüística de El Colegio de México </em> 9. 1-64.
 
-* 2021	Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge, and Stephen Nichols. States and Changes of State: A Cross-linguistic Study of the Roots of Verbal Meaning. <em> Language </em> 97(3): 439-484.
+* 2021	Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge, and Stephen Nichols. [States and Changes of State: A Cross-linguistic Study of the Roots of Verbal Meaning](https://muse.jhu.edu/article/806345/pdf). <em> Language </em> 97(3): 439-484. 
 
 2021	García Salido, Gabriela, Inocencia Arellano & Michael Everdell. Southeastern Tepehuan. <em> International Journal of American Linguistics </em> 87(Suppl. 1): S159-S168.
 
