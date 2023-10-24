@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 My CV
 ======
 [[pdf]](files/Michael Everdell CV CF.pdf)
