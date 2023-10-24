@@ -9,7 +9,8 @@ redirect_from:
 
 ## Dissertation
 * 2023 Everdell, Michael. Arguments and adjuncts in O'dam: language-specific realization of
-a cross-linguistic distinction. Doctoral dissertation. The University of Texas at Austin.
+a cross-linguistic distinction. Doctoral dissertation. The University of Texas at Austin. [[pdf]](files/Dissertation_Everdell.pdf)
+
 
 ## Manuscripts 
 * Under review	Bowler, Margit, Emily Hanink, J. Hopperdietzel, Andrew Koontz-Garboden, Colin Bannard, Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & Stephen Nichols. Verbhood and state/change-of-state lability across languages. <em> Glossa: a journal of general linguistics </em>. 
