@@ -13,7 +13,7 @@ a cross-linguistic distinction. Doctoral dissertation. The University of Texas a
 
 ## Manuscripts 
 * Under review	Bowler, Margit, Emily Hanink, J. Hopperdietzel, Andrew Koontz-Garboden, Colin Bannard, Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & Stephen Nichols. Verbhood and state/change-of-state lability across languages. <em> Glossa: a journal of general linguistics </em>.
-* In progress Everdell, Michael. Flavors of -ga: A possession class suffix in O'dam.
+* In progress Everdell, Michael. Flavors of -ga: A possession class suffix in O'dam. [[pdf]](files/Flavors_of__ga__A_possession_class_suffix_in_O_dam.pdf)
 
 ## Journal articles
 * 2022	Everdell, Michael & Gabriela García Salido. Los aplicativos en tepehuano del sureste (o’dam) y tepehuano del suroeste (audam). <em> Cuadernos de Lingüística de El Colegio de México </em> 9. 1-64.
