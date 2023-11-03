@@ -21,13 +21,14 @@ redirect_from:
 * Fall 2018, Assistant Instructor, Language Variation and Change.
 * Summer 2018 Assistant Instructor, Introduction to the Study of Language.
 * Spring 2018 Assistant Instructor, Introduction to the Study of Language.
-* 2016-2017	Teaching Assistant, Phonetics: The Production and Perception of Speech Sounds. (Instructor: Rajka Smiljanic)
+* 2016-2017	Teaching Assistant
+  	* Phonetics: The Production and Perception of Speech Sounds. (Instructor: Rajka Smiljanic)
 
-	* Teaching Assistant, Language Variation and Change. (Instructor: Patience Epps)
+	* Language Variation and Change. (Instructor: Patience Epps)
 
-	* Teaching Assistant, Syntax and Semantics: The Structure of Meaning and Utterance. (Instructor: Stephen Wechsler)
+	* Syntax and Semantics: The Structure of Meaning and Utterance. (Instructor: Stephen Wechsler)
 
-	* Teaching Assistant, Introduction to the Study of Language. (Instructor: Tony Woodbury)
+	* Introduction to the Study of Language. (Instructor: Tony Woodbury)
 
 
 
