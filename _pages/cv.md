@@ -9,7 +9,7 @@ redirect_from:
 
 My CV
 ======
-[[pdf]](files/Michael Everdell CV CF.pdf)
+<embed src="https://michael-everdell.github.io/files/Michael Everdell CV CF.pdf" type="application/pdf">
 
 Education
 ======
