@@ -33,4 +33,4 @@ redirect_from:
 
 
 ## Oberlin College
-* 2012	Teaching Assistant, Oberlin College, Fundamentals of Linguistics. (Instructor: Jason D. Haugen)
+* 2012	Teaching Assistant, Fundamentals of Linguistics. (Instructor: Jason D. Haugen)
