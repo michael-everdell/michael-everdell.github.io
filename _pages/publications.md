@@ -10,7 +10,7 @@ redirect_from:
 ## Dissertation
 2023 Everdell, Michael. Arguments and adjuncts in O'dam: language-specific realization of
 a cross-linguistic distinction. Doctoral dissertation. The University of Texas at Austin. 
-<a href="michael-everdell.github.io/files/Dissertation_Everdell.pdf" target="_blank">PDF.</a>
+<a href="files/Dissertation_Everdell.pdf" target="_blank">pdf.</a>
 
 
 ## Manuscripts 
