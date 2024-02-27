@@ -10,7 +10,7 @@ redirect_from:
 ## Dissertation
 2023 Everdell, Michael. Arguments and adjuncts in O'dam: language-specific realization of
 a cross-linguistic distinction. Doctoral dissertation. The University of Texas at Austin. 
-<a href="https://michael-everdell.github.io/files/Dissertation_Everdell.pdf" target="_blank">pdf.</a>
+<a href="https://michael-everdell.github.io/files/Dissertation_Everdell.pdf" target="_blank">[pdf]</a>
 
 
 ## Manuscripts 
@@ -18,7 +18,9 @@ Under review	Bowler, Margit, Emily Hanink, J. Hopperdietzel, Andrew Koontz-Garbo
 
 In progress	Everdell, Michael & Gabriela García Salido. On Common Experience and its source in discourse genre: reevaluating two evidentials in O’dam. Manuscript. The University of Texas at Austin and UNAM.
 
-In progress Everdell, Michael. Flavors of -ga: A possession class suffix in O'dam. [[pdf]]("files/Flavors_of__ga__A_possession_class_suffix_in_O_dam.pdf")
+In progress Everdell, Michael. Flavors of -ga: A possession class suffix in O'dam.
+<a href="https://michael-everdell.github.io/files/Flavors_of__ga__A_possession_class_suffix_in_O_dam.pdf" target="_blank">[pdf]</a> 
+
 
 ## Journal articles
 2022	Everdell, Michael & Gabriela García Salido. Los aplicativos en tepehuano del sureste (o’dam) y tepehuano del suroeste (audam). <em> Cuadernos de Lingüística de El Colegio de México </em> 9. 1-64.
