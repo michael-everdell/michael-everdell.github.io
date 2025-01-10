@@ -22,6 +22,8 @@ redirect_from:
 
 
 ## Conference presentations
+2025 Everdell, Michael and Prerna Nadathur. The ingredients of frustration: A study of two frustrative particles in O'dam. Paper presented at the Linguistic Society of American Annual Meeting. Philadelphia, PA, January 9-12. [[handout](files/Everdell_Nadathur_LSA2025.pdf)
+
 2023	Everdell, Michael and Gabriela García Salido. La función y el comportamiento de los evidenciales en o’dam. Paper presented at V Coloquio de Lingüística Maruicio Swadesh: Avances en el estudio de tiempo, aspecto, modo y evidencialidad en lenguas originarias (de México) y áreas vecinas. Lingüística del Instituto de Investigaciones Antropológicas of the Universidad Nacional Autónoma de México, September 20-22, 2023
 
 2022	Everdell, Michael and Gabriela García Salido. Evidenciales y sus características secundarias en O’dam. Paper presented at The 2022 Friends of Uto-Aztecan Conference/Taller de los amigos de las lenguas yutoaztecas (FUAC/TALY). Universidad de Colima Facultad de Letras y Comunicación, October 26-28, 2022.
