@@ -22,6 +22,8 @@ redirect_from:
 
 
 ## Conference presentations
+2025 Nadathur, Prerna and Michael Everdell. Reanalyzing frustration: Frustrativity and event maximality in O’dam. Poster presented at The 35th Semantics And Linguistic Theory conference (SALT 35). Harvard University, Cambridge, MA, May 20-22.<a href="https://michael-everdell.github.io/files/SALT35_handout_2025" target="_blank">[pdf]</a>
+
 2025 Everdell, Michael and Prerna Nadathur. Two ways to be non-inertial: Frustrativity and event maximality in O’dam. Paper presented at The 43rd West Coast Conference on Formal Linguistics (WCCFL 43). The University of Washington, Seattle, WA, April 25-27. <a href="https://michael-everdell.github.io/files/Everdell_Nadathur_WCCFL2025.pdf" target="_blank">[pdf]</a>
 
 2025 Everdell, Michael. Recipients are synactically and semantically distinct from
